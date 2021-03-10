@@ -1,9 +1,5 @@
 console.log("Weight Calculator");
-
-// var johnWeight = 70;
-// var johnHeight = 1.69;
-// var markWeight = 95;
-// var markHeight = 1.76;
+console.log('');
 
 function bmiCalculator(weight, height) {
  var bmi = Math.round(weight / (height * height));
